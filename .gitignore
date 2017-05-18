@@ -6,3 +6,7 @@
 *.so
 .DS_Store
 .settings/**
+.idea
+stanford-corenlp.iml
+models
+target
